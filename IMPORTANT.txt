@@ -1,0 +1,3 @@
+in dave gray project, if you want to run db.json below command will run it
+
+json-server --watch data/db.json --port 3500
